@@ -1,0 +1,8 @@
+MainMenuPanel
+├── Background (Image)
+├── Logo (Image)
+├── ButtonsContainer (Vertical Layout)
+│   ├── StartButton (Button)
+│   ├── SettingsButton (Button)
+│   └── QuitButton (Button)
+└── VersionText (TMP_Text) 

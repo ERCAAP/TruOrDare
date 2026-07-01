@@ -1,0 +1,13 @@
+MessagePopup
+├── Background (Image)
+├── ContentPanel
+│   ├── MessageText (TMP_Text)
+│   └── Button
+│       ├── ButtonText (TMP_Text)
+│       └── ButtonImage (Image)
+└── CanvasGroup
+
+Components:
+- MessagePopupUI script
+- PanelAnimationController script
+- Canvas Group 

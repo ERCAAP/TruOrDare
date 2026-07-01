@@ -1,0 +1,11 @@
+GameOverScreen
+├── Title
+├── ResultsContainer (Vertical Layout)
+├── WinnerAnnouncement
+└── Buttons
+    ├── RestartButton
+    └── MainMenuButton
+
+Components:
+- GameOverUI script
+- Canvas Group 

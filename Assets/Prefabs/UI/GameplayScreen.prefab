@@ -1,0 +1,19 @@
+GameplayScreen
+├── Header
+│   ├── PlayerInfo
+│   │   ├── AvatarImage
+│   │   ├── PlayerName
+│   │   └── Score
+│   └── Timer
+│       ├── TimerFill
+│       └── TimeText
+├── QuestionSection
+│   ├── QuestionType (Image)
+│   └── QuestionText (TMP_Text)
+└── AnswerButtons
+    ├── CompletedButton
+    └── FailedButton
+
+Components:
+- GameplayUI script
+- Canvas Group 

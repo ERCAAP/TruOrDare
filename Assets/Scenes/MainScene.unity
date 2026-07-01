@@ -1,0 +1,38 @@
+Canvas (Screen Space - Overlay)
+├── SafeArea
+│   ├── MainMenuPanel
+│   │   ├── Title
+│   │   ├── StartButton
+│   │   ├── SettingsButton
+│   │   └── QuitButton
+│   │
+│   ├── PlayerSelectionPanel
+│   │   ├── Header
+│   │   │   └── Title
+│   │   ├── PlayerCardsContainer (Vertical Layout)
+│   │   ├── AddPlayerButton
+│   │   └── ContinueButton
+│   │
+│   ├── GameplayPanel
+│   │   └── (GameplayScreen prefab)
+│   │
+│   ├── GameOverPanel
+│   │   └── (GameOverScreen prefab)
+│   │
+│   └── SettingsPanel
+│       ├── AudioSettings
+│       ├── LanguageSettings
+│       └── BackButton
+│
+└── LoadingScreen
+    ├── LoadingBar
+    └── LoadingText
+
+// Managers (Empty GameObject)
+├── GameManager
+├── UIManager
+├── AudioManager
+├── GameStateManager
+├── LocalizationManager
+├── AvatarManager
+└── PremiumManager 

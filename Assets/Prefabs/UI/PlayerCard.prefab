@@ -1,0 +1,22 @@
+PlayerCard
+├── CanvasGroup
+├── Background (Image)
+├── AvatarSection
+│   ├── AvatarImage (Image)
+│   └── ChangeAvatarButton (Button)
+├── NameSection
+│   └── NameInput (TMP_InputField)
+├── GenderSection
+│   ├── MaleButton (Button)
+│   │   ├── Icon (Image)
+│   │   └── Background (Image)
+│   └── FemaleButton (Button)
+│       ├── Icon (Image)
+│       └── Background (Image)
+└── RemoveButton (Button)
+    └── Icon (Image)
+
+Components:
+- PlayerCardUI script
+- Layout Group (Vertical)
+- Canvas Group 

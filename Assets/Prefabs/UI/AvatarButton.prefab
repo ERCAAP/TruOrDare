@@ -1,0 +1,9 @@
+AvatarButton
+├── Button
+├── AvatarImage (Image)
+├── PremiumLock (Image)
+└── SelectionFrame (Image)
+
+Components:
+- Button
+- Canvas Group 

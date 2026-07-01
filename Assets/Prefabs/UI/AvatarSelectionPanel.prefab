@@ -1,0 +1,13 @@
+AvatarSelectionPanel
+├── Background (Image)
+├── Title (TMP_Text)
+├── CloseButton (Button)
+├── ScrollView
+│   └── Content
+│       └── GridLayoutGroup
+└── BottomButtons
+    └── ConfirmButton (Button)
+
+Components:
+- AvatarSelectionUI script
+- Canvas Group 
